@@ -10,6 +10,8 @@ To anyone coming here to <b>clone this bot</b>, no support will be given for it.
 
 Modular Telegram Bot for managing your group with additional features.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cdfxscrq/Lucifer_ProBot
+
 [![lucifer](https://telegra.ph/file/6c8295a27003c2aaa67a3.jpg)](https://telegram.dog/lucifer_probot)
 
 Can be found as [Lucifer](https://t.me/Lucifer_ProBot).
@@ -24,6 +26,3 @@ setting up Lucifer in your chats (*not* for bot clones).
 Feel free to join to report bugs, and stay in the loop on the status of the bot development.
 
 Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
-
-
-### [We Don't Support Forks](https://github.com/Amazers392/Lucifer/blob/alpha/DoNotKang.txt)
